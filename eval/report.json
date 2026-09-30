@@ -1,0 +1,104 @@
+{
+  "per_category": [
+    {
+      "label": "NAME",
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "DATE",
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "PHONE",
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "EMAIL",
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "SSN",
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "MRN",
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "ACCOUNT",
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "ADDRESS",
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "AGE",
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  ],
+  "micro": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "summary": {
+    "rouge1_f1_mean": 0.5111847516306115,
+    "fact_coverage_mean": 0.8190476190476191,
+    "per_note_rouge1": [
+      0.5222929936305732,
+      0.4166666666666667,
+      0.5945945945945945
+    ],
+    "per_note_coverage": [
+      0.8571428571428571,
+      0.8,
+      0.8
+    ]
+  }
+}
